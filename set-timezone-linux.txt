@@ -1,0 +1,8 @@
+To check the Current timeZone:
+    - timedatectl
+        
+To get the List of all timezones:
+    - timedatectl list-timezones
+
+To Set a timezone:
+    - sudo timedatectl set-timezone Asia/Kolkata
